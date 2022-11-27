@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Vera ECU 2.0")(type "KiCad")(uri "${KIPRJMOD}/Vera ECU 2.0.kicad_sym")(options "")(descr ""))
+)
