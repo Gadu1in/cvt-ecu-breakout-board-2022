@@ -25,7 +25,7 @@
     (effects (font (size 1.6 1.6) (thickness 0.4) bold) (justify left bottom))
     (uuid 86357d51-04b2-4d96-b4bd-9ca92b1680c2)
   )
-  (text "rFlex fuel sensor is not used in current configuration.\nConnected to breakout connector for future developments\n\nThe EGO_Sensor is connected to a lambda sensor (located in the \nexhaust system). The lambda sensor is also connected to the battery +12V through a \n5-Amp fuse (for pre-heating the sensor to operating temperature)."
+  (text "Flex fuel sensor is not used in current configuration.\nConnected to breakout connector for future developments\n\nThe EGO_Sensor is connected to a lambda sensor (located in the \nexhaust system). The lambda sensor is also connected to the battery +12V through a \n5-Amp fuse (for pre-heating the sensor to operating temperature)."
     (at 176.53 38.1 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9afe4bc4-1eff-4421-b8ae-237fc1817219)
